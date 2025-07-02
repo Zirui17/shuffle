@@ -6,7 +6,7 @@ This Streamlit app simulates a shuffle process and visualizes the results using 
 
 ```bash
 pip install -r requirements.txt
-streamlit run demo.py
+streamlit run streamlit_app.py
 ```
 
 * If you are using vs code, you can use the ``Run and Debug`` to run directly.
