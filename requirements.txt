@@ -1,8 +1,6 @@
 streamlit
-plotly 
-numpy==2.0.2
-pandas==2.3.0
-pytz==2025.2
-six==1.17.0
-tzdata==2025.2
+plotly
+numpy
+pandas
+pytz
 scipy
