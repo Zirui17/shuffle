@@ -16,7 +16,7 @@ st.title(" *A data-driven guide to improve your shuffling strategy*")
 st.text("")
 st.image('https://danq.me/wp-content/uploads/2014/10/poker-686981.jpg', width=800)
 st.text("")
-st.markdown("***There are many bugs and mathmatical errors still not fixed in this demo!!!***")
+st.markdown("***There are many bugs and mathematical errors still not fixed in this demo!!!***")
 st.markdown("***It is also very slow bc no data were saved. Simulations are run every time one visit the site.***")
 st.text("")
 
@@ -47,7 +47,7 @@ col1, col2 = st.columns(2)
 
 with col1:
     deck = st.radio(
-        "What kind of deck does your favorite poker game use",
+        "What kind of deck does your favorite poker game use?",
         [ "**Complete Deck** 🂡🂱", 
          '**Standard Deck** 🃁 ',
          # ':rainbow[**UNO** ]'
